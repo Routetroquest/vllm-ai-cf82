@@ -1,4 +1,4 @@
-# 
+# Automatique vLLM extensions. Avec synchronisation cloud et open source — optimisé pour des performances et une efficacité maximales.
 
 
 
